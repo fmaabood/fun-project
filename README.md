@@ -1,2 +1,2 @@
 # fun-project
-Some Fun Project
+Dealing with github for the first time.
